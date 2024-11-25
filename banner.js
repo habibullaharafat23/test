@@ -25,7 +25,7 @@ var categoryDescriptionsText = {
         description: "Statistik-Cookies helfen Website-Betreibern zu verstehen, wie Besucher mit der Website interagieren, indem sie Informationen anonym sammeln und berichten.",
     },
     Marketing: {
-        description: "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user.",
+        description: "Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen",
     },
     Unclassified: {
         description: "Unclassified cookies are cookies that we are currently classifying together with the providers of individual cookies.",
