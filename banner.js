@@ -4,7 +4,7 @@ var unknownCookieText = ["Unknown", "This cookie information is unknown"];
 
 var categoryText = ["Erforderlich", "Einstellungen", "Statistiken", "Marketing", "Nicht klassifiziert"];
 
-var learnMoreText = "Learn more about the provider";
+var learnMoreText = "Mehr über den Anbieter erfahren";
 
 var topSectionText = ["Consent", "Details", "About"];
 
