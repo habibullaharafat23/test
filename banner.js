@@ -360,8 +360,8 @@ function createMainElements() {
             </span>
         </div>
         <div class="smallbannerbuttons">
-            <button class="accept">Accept All Cookies</button>
-            <button class="settings">Cookie Settings</button>
+            <button class="accept">Zustimmen</button>
+            <button class="settings">Mehr erfahren</button>
         </div>
     `
 
