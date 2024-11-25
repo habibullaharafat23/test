@@ -356,8 +356,7 @@ function createMainElements() {
     createSmallBanner.innerHTML = `
         <div class="smallbanernotics">
             <span>
-                We use cookies to enhance your experience, as well as for analytics and measurement purposes. By continuing to use our website and services, you agree to our use of cookies as outlined in our 
-                <a href="#"> cookie policy & privacy policy</a>
+               Um dir das beste Erlebnis zu bieten, nutzen wir Cookies und ähnliche Technologien, wie in unserer Datenschutzerklärung beschrieben. Damit verarbeiten wir Daten wie dein Surfverhalten oder eindeutige IDs. Wenn du deine Zustimmung nicht erteilst oder zurückziehst, können bestimmte Merkmale und Funktionen beeinträchtigt werden.
             </span>
         </div>
         <div class="smallbannerbuttons">
