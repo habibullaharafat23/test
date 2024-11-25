@@ -2,7 +2,7 @@ var websitePrivacyPage = "#";
 
 var unknownCookieText = ["Unknown", "This cookie information is unknown"];
 
-var categoryText = ["Erforderlich", "Preferences", "Statistics", "Marketing", "Unclassified"];
+var categoryText = ["Erforderlich", "Einstellungen", "Statistics", "Marketing", "Unclassified"];
 
 var learnMoreText = "Learn more about the provider";
 
@@ -19,7 +19,7 @@ var categoryDescriptionsText = {
         description: "Erforderliche Cookies machen die Website nutzbar, indem sie grundlegende Funktionen wie die Navigation auf der Seite und den Zugriff auf geschützte Bereiche der Website ermöglichen. Ohne diese Cookies kann die Website nicht ordnungsgemäß funktionieren.",
     },
     Preferences: {
-        description: "Preference cookies enable a website to remember information that changes the way the website behaves or looks.",
+        description: "Einstellungs-Cookies ermöglichen es der Website, Informationen zu speichern, die das Verhalten oder Aussehen der Website anpassen.",
     },
     Statistics: {
         description: "Statistics cookies help website owners understand how visitors interact with websites by collecting and reporting information anonymously.",
