@@ -8,7 +8,7 @@ var learnMoreText = "Learn more about the provider";
 
 var topSectionText = ["Consent", "Details", "About"];
 
-var firstSectionText = "We use cookies to enhance your experience, as well as for analytics and measurement purposes. By continuing to use our website and services, you agree to our use of cookies as outlined in our Cookie Policy and Privacy Policy.";
+var firstSectionText = "In diesem Abschnitt kannst du deine Einwilligungen für jede der unten aufgeführten Tracking-Technologien individuell anpassen. Mehr darüber, wie wir diese Tracker verwenden und wie sie funktionieren, findest du in unserer Datenschutzerklärung. Bitte beachte, dass bei der Ablehnung einzelner Verwendungszwecke bestimmte Funktionen möglicherweise nicht verfügbar sind.";
 
 var thirdSectionText = "Cookies are small text files that are used by websites to improve the user experience. The law states that we can store cookies on your device if they are strictly necessary for the operation of this website. For all other types of cookies, we need your permission. This means that cookies classified as necessary are managed according to Article 6(1)(f) of the GDPR. All other cookies, such as those in the Preferences and Marketing categories, are managed according to Article 6(1)(a) of the GDPR. This website uses different types of cookies. Some cookies are set by third-party services that appear on our pages.";
 
