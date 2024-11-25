@@ -2,7 +2,7 @@ var websitePrivacyPage = "#";
 
 var unknownCookieText = ["Unknown", "This cookie information is unknown"];
 
-var categoryText = ["Erforderlich", "Einstellungen", "Statistiken", "Marketing", "Unclassified"];
+var categoryText = ["Erforderlich", "Einstellungen", "Statistiken", "Marketing", "Nicht klassifiziert"];
 
 var learnMoreText = "Learn more about the provider";
 
@@ -28,7 +28,7 @@ var categoryDescriptionsText = {
         description: "Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen",
     },
     Unclassified: {
-        description: "Unclassified cookies are cookies that we are currently classifying together with the providers of individual cookies.",
+        description: "Nicht klassifizierte Cookies sind Cookies, die wir derzeit zusammen mit den Anbietern der einzelnen Cookies klassifizieren.",
     },
 };
 
