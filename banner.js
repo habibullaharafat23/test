@@ -2,7 +2,7 @@ var websitePrivacyPage = "#";
 
 var unknownCookieText = ["Unknown", "This cookie information is unknown"];
 
-var categoryText = ["Erforderlich", "Einstellungen", "Statistics", "Marketing", "Unclassified"];
+var categoryText = ["Erforderlich", "Einstellungen", "Statistiken", "Marketing", "Unclassified"];
 
 var learnMoreText = "Learn more about the provider";
 
@@ -22,7 +22,7 @@ var categoryDescriptionsText = {
         description: "Einstellungs-Cookies ermöglichen es der Website, Informationen zu speichern, die das Verhalten oder Aussehen der Website anpassen.",
     },
     Statistics: {
-        description: "Statistics cookies help website owners understand how visitors interact with websites by collecting and reporting information anonymously.",
+        description: "Statistik-Cookies helfen Website-Betreibern zu verstehen, wie Besucher mit der Website interagieren, indem sie Informationen anonym sammeln und berichten.",
     },
     Marketing: {
         description: "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user.",
