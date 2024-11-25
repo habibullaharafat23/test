@@ -16,7 +16,7 @@ var bannerButtonsTexts = ["Allen zustimmen", "Alle ablehnen", "Speichern und wei
 
 var categoryDescriptionsText = {
     Necessary: {
-        description: "Necessary cookies make the website usable by enabling basic functions like page navigation and access to secure areas of the website. Without these cookies, the website cannot function properly.",
+        description: "Erforderliche Cookies machen die Website nutzbar, indem sie grundlegende Funktionen wie die Navigation auf der Seite und den Zugriff auf geschützte Bereiche der Website ermöglichen. Ohne diese Cookies kann die Website nicht ordnungsgemäß funktionieren.",
     },
     Preferences: {
         description: "Preference cookies enable a website to remember information that changes the way the website behaves or looks.",
